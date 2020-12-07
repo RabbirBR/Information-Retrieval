@@ -1,0 +1,5 @@
+data/
+.ipynb_checkpoints/
+processed_train_dataset.csv
+processed_test_dataset.csv
+submission.csv
